@@ -782,6 +782,11 @@ a img {
   background: url(../images/project_icon.png) no-repeat left 0;
 }
 
+/* line 680, style.scss */
+.cur {
+  background: url(../images/threate_icon.png) no-repeat left 0;
+}
+
 /* line 683, style.scss */
 .map_bg {
   width: 100%;
